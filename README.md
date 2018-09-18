@@ -13,7 +13,8 @@ Oculus Touch等を用いてVR空間で演奏できる木琴のシミュレータ
 https://www.youtube.com/channel/UCY-rzz8F3xdJ9NS3Y5iAGjw
 
 ## 利用方法
-1. VirtualXylophone.unitypackageをダウンロード（ファイル名をクリックしてから画面右のDownloadボタンを押してください）  
+1. VirtualXylophone.unitypackageをダウンロード  
+ファイル名をクリックしてから画面右のDownloadボタンを押してください。  
 
 2. ダウンロードしたunitypackageをインポート  
 
@@ -21,7 +22,7 @@ https://www.youtube.com/channel/UCY-rzz8F3xdJ9NS3Y5iAGjw
 Mallet（バチ）とXylophone（本体）が配置されたシーンです。この時点ではバチは動きません。また、鍵盤は実行時に生成されるので再生するまで表示されません。 
   
 4. Malletを手に連動させる  
-Oculus Utilities for Unityを使用する場合、OVRCameraRigをシーンに配置して2本のMalletをそれぞれLeftHandAnchorとRightHandAnchorの子Objectにしてください。Malletの位置と角度はいい感じに調整してください。  
+Oculus Utilities for Unityを使用する場合、OVRCameraRigをシーンに配置して2本のMalletをそれぞれLeftHandAnchorとRightHandAnchorの子にしてください。Malletの位置と角度はいい感じに調整してください。  
 
 利用方法に関してご不明な点がございましたらお気軽にtwitterでご連絡ください。  
 https://twitter.com/ootamato
