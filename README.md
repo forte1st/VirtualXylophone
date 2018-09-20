@@ -26,3 +26,7 @@ Oculus Utilities for Unityを使用する場合、OVRCameraRigをシーンに配
 
 利用方法に関してご不明な点がございましたらお気軽にtwitterでご連絡ください。  
 https://twitter.com/ootamato
+
+## 更新履歴
+2018/09/17　ver.2.0　鍵盤が光るようになりました。鍵盤の幅などのカスタマイズが可能になりました。
+2018/03/27　ver.1.0　公開
