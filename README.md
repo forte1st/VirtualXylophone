@@ -13,8 +13,7 @@ Oculus Touch等を用いてVR空間で演奏できる木琴のシミュレータ
 https://www.youtube.com/channel/UCY-rzz8F3xdJ9NS3Y5iAGjw
 
 ## 利用方法
-1. VirtualXylophone.unitypackageをダウンロード  
-ファイル名をクリックしてから画面右のDownloadボタンを押してください（右クリック保存だと上手く行きません）。  
+1. [こちら](https://github.com/forte1st/VirtualXylophone/releases)からVirtualXylophone.unitypackageをダウンロード  
 
 2. ダウンロードしたunitypackageをインポート  
 
